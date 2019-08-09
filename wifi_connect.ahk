@@ -1,3 +1,6 @@
+; 这基本是一个连WIFI的录制脚本，分辨率不同时需要改动坐标即可成功
+
+; 切换输入法
 IME_SET(setSts, WinTitle="")
 {
     ifEqual WinTitle,,  SetEnv,WinTitle,A
