@@ -8,7 +8,7 @@ AutoHotkey: https://www.autohotkey.com/
 Doc：https://www.autohotkey.com/docs/AutoHotkey.htm
 
 
-AutoHotkey 与 AutoIt 都是 Windows 下较悠久的自动化脚本语言，两者侧重不同。
+AutoHotkey 与 AutoIt 都是 Windows 下历史较悠久的自动化脚本语言，两者侧重不同。
 
 AutoHotKey 擅长热键和基本的 GUI 自动化，但它的语法很恐怖，不适合大程序。其旧版已终止维护，但衍生 AutoHotkey_L 拥有 COM 自动化，Unicode 支持，面向对象的语法和数组。
 
